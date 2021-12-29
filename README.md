@@ -15,3 +15,7 @@ Use [`table.json`](./table.json).
 ```sh
 make table.json
 ```
+
+## Warning about License
+
+The code in this database depends on dolphin-emu, but the original data itself is considered public domain, so it is unlicensed.
